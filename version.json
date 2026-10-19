@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19.0",
-  "apkUrl": "shixu-v0.19.0.apk",
-  "notes": "① 所有删除操作都增加确认弹窗，防止误删；② 待办列表长按可进入批量模式，支持全选、批量完成、批量删除；③ AI 可以直接管理日程：对话中说\"把之前的计划删掉\"即可确认删除，还能让 AI 标记完成任务"
+  "versionCode": 20,
+  "versionName": "0.20.0",
+  "apkUrl": "shixu-v0.20.0.apk",
+  "notes": "修复安装器缓存问题：每个版本用独立文件名下载 APK，避免 Android 安装器误判版本"
 }
