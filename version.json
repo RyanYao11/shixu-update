@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20.0",
-  "apkUrl": "shixu-v0.20.0.apk",
-  "notes": "修复安装器缓存问题：每个版本用独立文件名下载 APK，避免 Android 安装器误判版本"
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "apkUrl": "shixu-v0.21.0.apk",
+  "notes": "长期计划增加每年循环选项；待办增加截止时间和提醒设置（不提醒/到期时/提前15分钟/30分钟/1小时/1天）"
 }
