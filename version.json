@@ -1,0 +1,6 @@
+{
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "shixu-latest.apk",
+  "notes": "更新检查与下载支持多源自动回退（国内 CDN 优先），解决检查更新失败的问题；含 v7 修复：AI 发送闪退、饼图改为已过去时间÷总时间"
+}
