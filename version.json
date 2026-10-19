@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14.0",
-  "apkUrl": "shixu-v0.14.0.apk",
-  "notes": "修复检查更新失败/误判已是最新：改用 GitHub API 实时版本 + ghfast/gh-proxy 镜像，不再依赖会返回旧缓存的 jsDelivr；下载后校验 APK 真实版本号，杜绝装到旧版；大文件下载不再受 20 秒总超时限制；弹窗显示当前版本"
+  "versionCode": 15,
+  "versionName": "0.15.0",
+  "apkUrl": "shixu-v0.15.0.apk",
+  "notes": "修复 AI 无输出：DeepSeek V4.1 默认开启思考模式，思考内容占满输出配额导致正文为空；已关闭思考、输出上限提高到 4096，空回复会给出明确提示"
 }
