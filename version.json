@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "apkUrl": "shixu-latest.apk",
-  "notes": "修复 AI 报 422：适配 DeepSeek 9 月接口更新，模型名改为 deepseek-flash；错误提示更详细（含服务端原因）；参数类错误自动精简上下文重试"
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "apkUrl": "shixu-v0.10.0.apk",
+  "notes": "修复更新时下载到旧版本的问题：APK 改用带版本号的固定下载地址，不再受缓存影响；含 v9 修复：AI 模型名适配 DeepSeek 新接口（deepseek-flash）"
 }
